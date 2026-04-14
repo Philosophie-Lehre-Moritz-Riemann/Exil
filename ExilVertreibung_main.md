@@ -31,13 +31,13 @@ narrator: DE Deutsch Female
 | 21.04.2026  | Hannah Arendt: Wir Flüchtlinge + Gäste aus dem Niemandsland                |                   |
 | 28.04.2026  | Anna Seghers: Der Ausflug der toten Mädchen                | Referat                  |
 | 05.05.2026  | Günther Anders: Der Emigrant                 | Referat                  |
-| 12.05.2026  | Jean Améry: Wieviel Heimat braucht der Mensch?                |                   |
-| 19.05.2026  | Vilém Flusser: Wohnung beziehen in der Heimatlosigkeit                   | Referat                  |
-| 26.05.2026  | Hannah Arendt: Es gibt nur ein einziges Menschenrecht                 | Referat                  |
-| 02.06.2026  | Judith Sklar: Verpflichtung, Loyalität, Exil                 | Referat                  |
-| 09.06.2026  | Albert O. Hirschmann: Exit, Voice and the State                 | Referat                  |
+| 12.05.2026  | Jean Améry: Wieviel Heimat braucht der Mensch?                |Referat: Imran Kaya                   |
+| 19.05.2026  | Vilém Flusser: Wohnung beziehen in der Heimatlosigkeit                   | Referat: Joanna Marckmann   |
+| 26.05.2026  | Hannah Arendt: Es gibt nur ein einziges Menschenrecht                 | Referat: Julius Stahl                  |
+| 02.06.2026  | Judith Sklar: Verpflichtung, Loyalität, Exil                 | Referat: Melisa Bikliqi                  |
+| 09.06.2026  | Albert O. Hirschmann: Exit, Voice and the State                 | Referat: Emilia Martens                  |
 | 16.06.2026  | Vilém Flusser: Nomadische Überlegungen + Exil und Kreativität                  |                   |
-| 23.06.2026  | Jean Améry: Über Zwang und Unmöglichkeit, Jude zu sein                | Referat                  |
+| 23.06.2026  | Jean Améry: Über Zwang und Unmöglichkeit, Jude zu sein                | Referat: Firat Savas                  |
 | 30.06.2026  | Donatella Di Cesare: Ansässige Fremde                | Referat                  |
 | 07.07.2026  | Abschlussdiskussion                 |                   |
 
