@@ -33,7 +33,7 @@ narrator: DE Deutsch Female
 | 05.05.2026  | Günther Anders: Der Emigrant                 | Referat                  |
 | 12.05.2026  | Jean Améry: Wieviel Heimat braucht der Mensch?                |Referat: Imran Kaya                   |
 | 19.05.2026  | Vilém Flusser: Wohnung beziehen in der Heimatlosigkeit                   | Referat: Joanna Marckmann   |
-| 26.05.2026  | Hannah Arendt: Es gibt nur ein einziges Menschenrecht                 | Referat: Julius Stahl                  |
+| 26.05.2026  | Hannah Arendt: Es gibt nur ein einziges Menschenrecht                 | Referat: Julius Schrader                  |
 | 02.06.2026  | Judith Sklar: Verpflichtung, Loyalität, Exil                 | Referat: Melisa Bikliqi                  |
 | 09.06.2026  | Albert O. Hirschmann: Exit, Voice and the State                 | Referat: Emilia Martens                  |
 | 16.06.2026  | Vilém Flusser: Nomadische Überlegungen + Exil und Kreativität                  |                   |
