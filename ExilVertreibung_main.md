@@ -36,7 +36,7 @@ narrator: DE Deutsch Female
 | 26.05.2026  | Hannah Arendt: Es gibt nur ein einziges Menschenrecht                 | Referat: Julius Schrader                  |
 | 02.06.2026  | Judith Sklar: Verpflichtung, Loyalität, Exil                 | Referat: Melisa Bikliqi                  |
 | 09.06.2026  | Albert O. Hirschmann: Exit, Voice and the State                 | Referat: Emilia Martens                  |
-| 16.06.2026  | Vilém Flusser: Nomadische Überlegungen + Exil und Kreativität                  |                   |
+| 16.06.2026  | Vilém Flusser: Nomadische Überlegungen + Exil und Kreativität                  | Referat: Mia Henning      |
 | 23.06.2026  | Jean Améry: Über Zwang und Unmöglichkeit, Jude zu sein                | Referat: Fırat Savaş                  |
 | 30.06.2026  | Donatella Di Cesare: Ansässige Fremde                | Referat                  |
 | 07.07.2026  | Abschlussdiskussion                 |                   |
