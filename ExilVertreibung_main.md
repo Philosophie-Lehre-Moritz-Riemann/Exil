@@ -29,7 +29,7 @@ narrator: DE Deutsch Female
 |-------------|------------------|-------------------|
 | 14.04.2026  | Einführung und Organisatorisches                 |                   |
 | 21.04.2026  | Hannah Arendt: Wir Flüchtlinge + Gäste aus dem Niemandsland                |                   |
-| 28.04.2026  | Anna Seghers: Der Ausflug der toten Mädchen                | Referat                  |
+| 28.04.2026  | Anna Seghers: Der Ausflug der toten Mädchen                | Referat: Lilly Martens                  |
 | 05.05.2026  | Günther Anders: Der Emigrant                 | Referat                  |
 | 12.05.2026  | Jean Améry: Wieviel Heimat braucht der Mensch?                |Referat: Imran Kaya                   |
 | 19.05.2026  | Vilém Flusser: Wohnung beziehen in der Heimatlosigkeit                   | Referat: Joanna Marckmann   |
