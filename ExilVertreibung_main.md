@@ -85,3 +85,29 @@ narrator: DE Deutsch Female
 * Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. 
 * Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. **Eine Abgabe per Email ist nicht ausreichend!**
 * Referate: Gehen Sie davon aus, dass alle Teilnehmenden die Texte gelesen haben. Vermeiden Sie also eine bloße Inhaltsangabe. Versuchen Sie, den Argumentationszusammenhang herauszustellen und in den Kontext des Seminars einzubetten. Klären Sie Begriffe und stellen Sie gern auch einzelne Textpassagen ausführlicher dar, die Sie für besonders bezeichnend erachten. Im Umfang sollten 30 Minuten nicht überschritten werden. Die Erstellung eines Handouts und/oder einer Präsentation ist obligatorisch.
+
+## Sitzung am 5. Mai 2026
+
+### Günther Anders
+
+* 1902 (Breslau) - 1992 (Wien)
+* 1923 Promotion bei Husserl in Freiburg
+* publizistische Tätigkeit, v.a beim Berliner Börsen-Courier; Geburt des Pseudonyms "Günther Anders"
+* 1929-1937 Ehe mit Hannah Arendt
+* 1933 Flucht nach Paris
+* 1936 Emigration nach New York
+* Lecturer an der New School for Social Research
+* 1950 Rückkehr nach Europa, Niederlassung in Wien als freier Schriftsteller
+
+### Arbeit am Text
+
+**Bildet vier Gruppen**
+
+Beantwortet am Text folgende Fragen und sucht pro Frage min. 1 Textstelle, die wir im Plenum besprechen können:
+
+1. Inwiefern führt die Pluralisierung der vitae zu einem Verlust des Seinsbeweises?
+2. Welche Art von Pubertät durchläuft ein Emigrant und was zeigt diese Metapher?
+3. Wie Arendt spricht Anders vom nackten Leben. Was ist gemeint und gibt es hier Unterschiede zu Arendt?
+4. Welche Rolle kommt der Sprache zu?
+
+
