@@ -111,3 +111,13 @@ Beantwortet am Text folgende Fragen und sucht pro Frage min. 1 Textstelle, die w
 4. Welche Rolle kommt der Sprache zu?
 
 
+## Sitzung am 12.05.2026
+
+### Gruppenarbeit
+
+**Bildet 4 Gruppen**
+
+1. Rekonstruiert mithilfe der Online-Recherche Amérys Route der Flucht und Internierung
+2. Konturiert den Exilbegriff
+3. Bestimmt die Begriffe Heimweh und Heimat, sowie die Rolle der Sprache
+4. Findet pro Gruppe 2-3- Textstellen, über die wir sprechen können
